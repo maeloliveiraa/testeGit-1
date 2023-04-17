@@ -30,7 +30,7 @@
 -----------------
 
 > 📄 Licença
-### Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
+### Este projeto está sob a licença - veja o arquivo LICENSE.md para detalhes.
 -----------------
 
 > 📁 Repositório
