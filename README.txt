@@ -19,7 +19,7 @@ Git
 
 ✒️ Autores
 Danilo César
-Gabriel
+Gabriel Sousa 
 Gustavo 
 Ismael de Oliveira
 Juliano Favero
